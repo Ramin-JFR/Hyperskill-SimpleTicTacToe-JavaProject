@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe (Java)/task/build/
+/Simple Tic-Tac-Toe (Java)/task/out/
+/Simple Tic-Tac-Toe (Java)/task/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
